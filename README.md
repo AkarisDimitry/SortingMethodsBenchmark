@@ -1,5 +1,7 @@
 # Sorting Algorithms Comparison
 
+![image](https://github.com/AkarisDimitry/SortingMethodsBenchmark/assets/34775621/ace04ddb-6114-452f-a930-7cedc5d6d540)
+
 Este repositorio contiene una implementación y análisis de varios algoritmos de ordenamiento en Python, incluyendo Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, Counting Sort, Radix Sort, Bucket Sort y Tim Sort. El código incluye funciones para visualizar el tiempo de ejecución de cada algoritmo en diferentes tamaños de lista, así como una función para visualizar el progreso de un algoritmo de ordenamiento en tiempo real. El objetivo es proporcionar una herramienta de referencia y análisis para la comparación del rendimiento de diferentes algoritmos de ordenamiento.
 
 ## Algoritmos de Ordenamiento
